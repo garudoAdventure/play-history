@@ -1,0 +1,15 @@
+{
+  "name": "遊玩紀錄",
+  "short_name": "遊玩紀錄",
+  "description": "記錄玩過的電玩遊戲、桌遊與密室逃脫",
+  "lang": "zh-Hant-TW",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f5f2",
+  "theme_color": "#d9622b",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
